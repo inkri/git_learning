@@ -1,2 +1,2 @@
 # git_learning
-git learning
+Learning git commands and system for code versioning.
